@@ -1,5 +1,10 @@
 # Primitive Fitting Using Deep Boundary Aware Geometric Segmentation
 
+
+By [Duanshun Li](https://duanshun.github.io/) and [Chen Feng](https://simbaforrest.github.io/).
+
+
+
 ## Introduction
 
 To identify and fit geometric primitives (e.g., planes, spheres, cylinders, cones) in a noisy point cloud 
@@ -53,9 +58,9 @@ The primitives are parameterized with following parameters:
 + `Plane`: a point on the plane and its norm; i.e. x, y, z, nx, ny, nz.
 + `Sphere`: a point on the center and its radius; i.e. x, y, z, r.
 + `Cylinder`: a point on the axis, the axis, and the radius; i.e. x, y, z, nx, ny, nz, r.
-+ `Cone`: the apex, the axis, and the open angle in radius; i.e. x, y, z, nx, ny, nz, $\theta$  
++ `Cone`: the apex, the axis, and the open angle in radius; i.e. x, y, z, nx, ny, nz, \\theta     
 
-## Reference
+## Citation
 
 You can reference the following [article](https://arxiv.org/pdf/1810.01604.pdf) if the dataset is used.
 

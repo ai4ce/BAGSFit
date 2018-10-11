@@ -31,13 +31,16 @@ and thus a less appealing visual result.
 
 ## Dataset
 
+### Download
+
+The dataset used in our [paper](https://arxiv.org/pdf/1810.01604.pdf) is provided
+ on [Google Drive](https://drive.google.com/open?id=1JNjK5eQaVQn7w_gyvd2nszg_qCHSjqvl).
+
+### Details
 The dataset is created with [Blensor](http://www.blensor.org/) on simulated scenes.
 
  ![blensor](./figs/blensor.jpg)
  
-The dataset used in our [paper](https://arxiv.org/pdf/1810.01604.pdf) is provided
- on [Google Drive](https://drive.google.com/open?id=1JNjK5eQaVQn7w_gyvd2nszg_qCHSjqvl).
-
 In our paper, the first 18 scenes in Train-20s dataset is used for training, 
 the last two scenes are used for valication. 
 The Test-20s dataset is used for testing.

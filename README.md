@@ -68,3 +68,13 @@ The primitives are parameterized with following parameters:
 You can reference the following [article](https://arxiv.org/pdf/1810.01604.pdf) if the dataset is used.
 
 Li, Duanshun, and Chen Feng. "Primitive Fitting Using Deep Boundary Aware Geometric Segmentation." arXiv preprint arXiv:1810.01604 (2018).     
+
+BibTex:
+```
+@article{li2018primitive,
+  title={Primitive Fitting Using Deep Boundary Aware Geometric Segmentation},
+  author={Li, Duanshun and Feng, Chen},
+  journal={arXiv preprint arXiv:1810.01604},
+  year={2018}
+}
+```
